@@ -9,5 +9,5 @@ REPORT ZAPEXGIT.
 *Test Commit if works
 *Branch 1 added
 if sy-datum > '20180310'.
-write 'Date is greater than 10 Mar'
-endif
+write 'Date is greater than 10 Mar'.
+endif.
