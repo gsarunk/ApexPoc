@@ -15,3 +15,4 @@ endif.
 if sy-datum > '20180305'.
 write 'Date is greater than 5 Mar'.
 endif.
+*Change done during the call
